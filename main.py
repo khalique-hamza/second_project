@@ -1,5 +1,5 @@
 def main():
-    names = ["Bob", "Jim", "Becky"]
+    names = ["Bob", "Jim", "Becky", "Jim"]
 
     for name in names:
         print(name)
