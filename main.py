@@ -1,3 +1,8 @@
-print("second_project!")
-print("this is a change that I am currently making to the second project!")
-print("this is the third change that I'm doing. I also changed my username, checking if things still work.")
+def main():
+    names = ["Bob", "Jim", "Becky"]
+
+    for name in name:
+        print(name)
+
+if __name__ == "__main__":
+    main()
